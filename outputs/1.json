@@ -1,0 +1,79 @@
+{
+  "plantable": [
+    {
+      "crop": "Maize",
+      "metal": "As",
+      "uptake": 0.0105,
+      "score": 94.75,
+      "category": "Plantable",
+      "reason": "Bioavail factor: 0.70"
+    },
+    {
+      "crop": "Soybean",
+      "metal": "As",
+      "uptake": 0.0126,
+      "score": 93.7,
+      "category": "Plantable",
+      "reason": "Bioavail factor: 0.70"
+    },
+    {
+      "crop": "Chickpeas",
+      "metal": "As",
+      "uptake": 0.0158,
+      "score": 92.13,
+      "category": "Plantable",
+      "reason": "Bioavail factor: 0.70"
+    },
+    {
+      "crop": "Tomato",
+      "metal": "As",
+      "uptake": 0.0158,
+      "score": 92.13,
+      "category": "Plantable",
+      "reason": "Bioavail factor: 0.70"
+    },
+    {
+      "crop": "Onion",
+      "metal": "As",
+      "uptake": 0.0189,
+      "score": 90.55,
+      "category": "Plantable",
+      "reason": "Bioavail factor: 0.70"
+    },
+    {
+      "crop": "Wheat",
+      "metal": "As",
+      "uptake": 0.021,
+      "score": 89.5,
+      "category": "Plantable",
+      "reason": "Bioavail factor: 0.70"
+    },
+    {
+      "crop": "Potato",
+      "metal": "As",
+      "uptake": 0.0262,
+      "score": 86.88,
+      "category": "Plantable",
+      "reason": "Bioavail factor: 0.70"
+    }
+  ],
+  "borderline": [],
+  "not_plantable": [
+    {
+      "crop": "Rice",
+      "metal": "As",
+      "uptake": 0.108,
+      "score": 0,
+      "category": "Not Plantable",
+      "reason": "Bioavail factor: 0.90"
+    },
+    {
+      "crop": "Spinach",
+      "metal": "As",
+      "uptake": 0.1148,
+      "score": 0,
+      "category": "Not Plantable",
+      "reason": "Bioavail factor: 0.90"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+crop,metal,uptake,score,category,reason
+Maize,Cd,0.0082,95.92,plantable,Bioavail factor: 0.80
+Soybean,Cd,0.018,91.0,plantable,Bioavail factor: 0.80
+Chickpeas,Cd,0.024,88.0,plantable,Bioavail factor: 0.80
+Tomato,Cd,0.024,88.0,plantable,Bioavail factor: 0.80
+Onion,Cd,0.03,85.0,plantable,Bioavail factor: 0.80
+Potato,Cd,0.036,82.0,plantable,Bioavail factor: 0.80
+Wheat,Cd,0.056,71.98,plantable,Bioavail factor: 0.80
+Rice,Cd,0.06,70.0,plantable,Bioavail factor: 0.80
+Spinach,Cd,0.108,46.0,plantable,Bioavail factor: 0.80
+Rice,As,15.84,0.0,not_plantable,Bioavail factor: 0.90
+Maize,As,1.54,0.0,not_plantable,Bioavail factor: 0.70
+Wheat,As,3.08,0.0,not_plantable,Bioavail factor: 0.70
+Chickpeas,As,2.31,0.0,not_plantable,Bioavail factor: 0.70
+Soybean,As,1.848,0.0,not_plantable,Bioavail factor: 0.70
+Potato,As,3.85,0.0,not_plantable,Bioavail factor: 0.70
+Spinach,As,16.83,0.0,not_plantable,Bioavail factor: 0.90
+Onion,As,2.772,0.0,not_plantable,Bioavail factor: 0.70
+Tomato,As,2.31,0.0,not_plantable,Bioavail factor: 0.70
